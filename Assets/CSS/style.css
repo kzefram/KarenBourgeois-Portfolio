@@ -2,18 +2,24 @@
     --main-color: #7733ff;
     --compliment-color: #99cc00;
     --sec-comp-color: #ff6600;
-    --bkgd-color: rgb(199, 199, 199);
+    --bkgd-color:grey;
 }
 
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 24px;
+    
+    /*color: var(--sec-comp-color);*/
+    
+}
+
+body {
     background-color: var(--bkgd-color);
-    color: var(--sec-comp-color);
+    color: antiquewhite;
 }
 
 .flex {
-    margin: 0%;
+    margin: 25px;
     padding: 0%;
 }
 
@@ -25,6 +31,19 @@
 
 .header-nav {
     display: flex;
+    
+}
+
+.nav-list {
+    text-decoration-color: var(--main-color);
+    text-decoration-line: none;
+    display: flex;
+    margin: 8px;
+    
+}
+
+.nav-list:hover {
+    color: var(--compliment-color);
 }
 
 .header-title-name {
@@ -37,7 +56,32 @@
 .card {
     background-color: var(--main-color);
     color: var(--sec-comp-color);
+    
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+}
+
+#About-Me {
+    margin: 25px;
+}
+
+.about-me-para {
+    margin: 25px;
+}
+
+.work {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+#work {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+
+.work-image {
+    padding: 10px;
 }
