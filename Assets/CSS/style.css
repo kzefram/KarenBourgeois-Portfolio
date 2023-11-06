@@ -7,10 +7,6 @@
 
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 24px;
-    
-    /*color: var(--sec-comp-color);*/
-    
 }
 
 body {
@@ -29,9 +25,13 @@ body {
     margin: 0px;
 }
 
+.avatar {
+    border-radius: 30px;
+}
+
 .header-nav {
     display: flex;
-    
+    float: left;
 }
 
 .nav-list {
@@ -84,4 +84,10 @@ body {
 
 .work-image {
     padding: 10px;
+}
+
+.work-para {
+    padding: 10px;
+    text-align: justify;
+    line-height: normal;
 }
