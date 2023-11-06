@@ -17,11 +17,13 @@ body {
 .flex {
     margin: 25px;
     padding: 0%;
+    display: inline-flex;
+    flex-direction: row;
 }
 
 .header-image {
     display: flex;
-    height: 750px;
+    height: 550px;
     margin: 0px;
 }
 
@@ -32,6 +34,7 @@ body {
 .header-nav {
     display: flex;
     float: left;
+    text-decoration: none;
 }
 
 .nav-list {
@@ -39,7 +42,7 @@ body {
     text-decoration-line: none;
     display: flex;
     margin: 8px;
-    
+    float: left;
 }
 
 .nav-list:hover {
@@ -50,7 +53,11 @@ body {
     display:flex;
     flex-direction: row;
     margin-bottom: 5px;
-    text-align: center;
+    margin-top: 200px;
+}
+
+.header-title-tag {
+    margin-top: 250px;
 }
 
 .card {
@@ -70,7 +77,7 @@ body {
     margin: 25px;
 }
 
-.work {
+.work-items {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
