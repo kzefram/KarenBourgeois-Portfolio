@@ -42,7 +42,7 @@ body {
 }
 
 li {
-    text-decoration-line: none;
+    text-decoration-line:none;
     text-decoration-style: none;
     text-decoration-color: var(--main-color);
     
@@ -60,10 +60,12 @@ li {
     flex-direction: row;
     margin-bottom: 5px;
     margin-top: 200px;
+    align-items: center;
 }
 
 .header-title-tag {
     margin-top: 250px;
+    align-items: first baseline;
 }
 
 .card {
@@ -73,6 +75,7 @@ li {
     height: 400px;
     width: 400px;
     margin: 20px;
+
 }
 
 #About-Me {
