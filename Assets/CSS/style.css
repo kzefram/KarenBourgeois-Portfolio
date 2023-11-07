@@ -41,11 +41,9 @@ body {
     text-decoration: none;
 }
 
-li {
+.nav-list {
     text-decoration-line:none;
     text-decoration-style: none;
-    text-decoration-color: var(--main-color);
-    
     display: flex;
     margin: 8px;
     float: left;
