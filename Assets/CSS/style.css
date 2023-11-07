@@ -17,8 +17,12 @@ body {
 .flex {
     margin: 25px;
     padding: 0%;
-    display: inline-flex;
+    display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
 }
 
 .header-image {
