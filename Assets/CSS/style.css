@@ -1,5 +1,5 @@
 :root {
-    --main-color: #7733ff;
+    --main-color: #4c3972;
     --compliment-color: #99cc00;
     --sec-comp-color: #ff6600;
     --bkgd-color:grey;
@@ -37,9 +37,11 @@ body {
     text-decoration: none;
 }
 
-.nav-list {
-    text-decoration-color: var(--main-color);
+li {
     text-decoration-line: none;
+    text-decoration-style: none;
+    text-decoration-color: var(--main-color);
+    
     display: flex;
     margin: 8px;
     float: left;
@@ -63,7 +65,7 @@ body {
 .card {
     background-color: var(--main-color);
     color: var(--sec-comp-color);
-    
+    border-radius: 30px;
     height: 400px;
     width: 400px;
     margin: 20px;
@@ -91,6 +93,7 @@ body {
 
 .work-image {
     padding: 10px;
+    border-radius: 30px;
 }
 
 .work-para {
