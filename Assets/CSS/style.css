@@ -147,7 +147,7 @@ footer {
 @media screen and (max-width: 996px) {
     .header-image {
         padding-top: 30px;
-        height: 200px;
+        height: auto;
         width: auto;
     }
 
@@ -176,7 +176,7 @@ footer {
     }
 
     .header-image {
-        padding-top: 30px;
-        padding-left: 50px;
+        padding-top: 40px;
+        
     }
 }
