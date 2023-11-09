@@ -7,7 +7,7 @@
 
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 }
 
 .flex {
-    margin: 35px;
+    margin: 25px;
     padding: 0%;
     display: flex;
     flex-direction: row;
@@ -26,42 +26,50 @@ body {
 }
 
 .header-image {
+    height: 450px;
+    width: auto;
     display: flex;
-    height: 550px;
-    margin: 0px;
+    
 }
 
 .avatar {
     border-radius: 30px;
+    margin-top: 20px;
+}
+
+.header-title-name {
+    padding: 11px;
+}
+
+.name {
+    font-size: 50px;
+    margin-bottom: 0px;
+    padding-bottom: opx;
+}
+
+.sub-tag {
+    margin-top: -10px;
 }
 
 .nav {
-    align-items: flex-end;
-    text-decoration: none;
-    flex-wrap: wrap;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .nav-list {
-    display: flex;
+    
+    display: inline-flex;
     flex-direction: row;
-    text-decoration: none;
-    float: end;
+    float: inline-end;
     color: antiquewhite;
-    margin: 10px 20px 0px 260px;
+    padding: 0px 16px 0px 0px;
+    text-decoration: none;
+    position: relative;
 }
 
 .nav-list:hover {
     color: var(--compliment-color);
-}
-
-.header-title-name {
-    display:flex;
-    flex-direction: column;
-    padding: 80px;
-}
-
-.name {
-    font-size: 75px;
 }
 
 .card {
@@ -115,14 +123,17 @@ body {
     font-size: 45px;
 }
 
-#contact-picture {
-    background-color: var(--main-color);
-    border-radius: 30px;
-    height: 300px;
-    width: auto;
-    margin: 25px;
-    flex-wrap: wrap;
-    justify-content: center;
+.contact-info{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.contact-info:hover {
+    color: #99cc00;
+}
+
+.contact-margin {
+    margin: 15px 10px 0px 25px;
 }
 
 footer {
@@ -131,4 +142,36 @@ footer {
     display: flex;
     justify-content: center;
 
+}
+
+@media screen and (max-width: 996px) {
+    .header-image {
+        padding-top: 20px;
+        height: 200px;
+        width: auto;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .nav {
+        flex-direction: column;
+        justify-content: right;
+    }
+
+    .name {
+        font-size: 20px;
+    }
+
+    .sub-tag {
+        font-size: 20px;
+    }
+
+    .about-me-para {
+        font-size: 20px;
+    }
+
+    #About-me {
+        font-size: 20px;
+    }
 }
