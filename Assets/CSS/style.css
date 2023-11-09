@@ -107,3 +107,28 @@ body {
     text-align: justify;
     line-height: normal;
 }
+
+#Contact-Me {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    font-size: 45px;
+}
+
+#contact-picture {
+    background-color: var(--main-color);
+    border-radius: 30px;
+    height: 300px;
+    width: auto;
+    margin: 25px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer {
+    margin: 100px 0px 75px 0px;
+    
+    display: flex;
+    justify-content: center;
+
+}
