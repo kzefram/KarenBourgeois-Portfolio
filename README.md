@@ -1,4 +1,4 @@
-# KarenBourgeois-Portfolio-Mod2
+# KarenBourgeois-Portfolio
 
 ## Description
 
@@ -24,7 +24,7 @@ I had to follow the following process:
 
 Picture(s)
 
-[Portfolio](./Assets/images/Portfolio.png)
+
 
 ## Table of Contents
 
@@ -60,7 +60,7 @@ https://github.com/users/kzefram/achievements/yolo
 
 ## Features
 
-If your project has a lot of features, list them here.
+Not at this time.
 
 ## How to Contribute
 

@@ -7,50 +7,14 @@
 
 * {
     font-family: 'Poppins', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
 }
 
-body {
-    background-color: var(--bkgd-color);
-    color: antiquewhite;
-    padding: 0px 100px 0px 100px;
-}
-
-.flex {
-    margin: 25px;
-    padding: 0%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    flex-wrap: wrap;
-    text-align: center;
-}
-
-.header-image {
-    height: 450px;
-    width: auto;
-    display: flex;
-    
-}
-
-.avatar {
-    border-radius: 30px;
-    margin-top: 20px;
-    
-}
-
-.header-title-name {
-    padding: 11px;
-}
-
-.name {
-    font-size: 50px;
-    margin-bottom: 0px;
-    padding-bottom: opx;
-}
-
-.sub-tag {
-    margin-top: -10px;
+header {
+    background-image: url(../images/dancingAstronaut6.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
 }
 
 .nav {
@@ -64,7 +28,7 @@ body {
     display: inline-flex;
     flex-direction: row;
     float: inline-end;
-    color: antiquewhite;
+    color: white;
     padding: 0px 16px 0px 0px;
     text-decoration: none;
     position: relative;
@@ -86,6 +50,10 @@ body {
     
 }
 
+.About-Me {
+    background-color: lightgray;
+}
+
 #About-Me {
     margin: 25px;
     font-size: 45px;
@@ -97,11 +65,15 @@ body {
 }
 
 .Contac-link {
-    color: antiquewhite;
+    color: grey;
 }
 
 .Contac-link:hover {
     color: #99cc00;
+}
+
+.work-section {
+    background-color: white;
 }
 
 .work-items {
@@ -149,6 +121,13 @@ body {
     margin: 15px 10px 0px 25px;
 }
 
+.contact-image {
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+}
+
 footer {
     margin: 100px 0px 75px 0px;
     
@@ -159,7 +138,6 @@ footer {
 
 @media screen and (max-width: 996px) {
     .header-image {
-        padding-top: 30px;
         height: auto;
         width: auto;
     }
