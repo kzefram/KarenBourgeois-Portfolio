@@ -4,7 +4,7 @@
 
 I am making this as part of a bookcamp challenge and my own persal use. This is the link to the live site:
 
-- https://kzefram.github.io/KarenBourgeois-Portfolio-Mod2/
+- https://kzefram.github.io/KarenBourgeois-Portfolio/
 
 I had to follow the following process:
 
