@@ -17,6 +17,16 @@ header {
     background-position: center;
 }
 
+.header-info {
+    position:absolute;
+	top:50%;
+	left:70%;
+	-webkit-transform:translate(-50%,-50%);
+	        transform:translate(-50%,-50%);
+	text-align:center;
+    height: 350px;
+}
+
 .nav {
     list-style-type: none;
     margin: 0;
@@ -28,10 +38,11 @@ header {
     display: inline-flex;
     flex-direction: row;
     float: inline-end;
-    color: white;
-    padding: 0px 16px 0px 0px;
+    color: black;
+    padding:0px 16px 0px 10px;
     text-decoration: none;
-    position: relative;
+    /* position: relative; */
+
 }
 
 .nav-list:hover {
@@ -140,6 +151,9 @@ footer {
     .header-image {
         height: auto;
         width: auto;
+    }
+    .header-info {
+        height: 250px;
     }
 
 }
