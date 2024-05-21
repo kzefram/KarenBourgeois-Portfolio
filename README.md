@@ -1,42 +1,31 @@
 # KarenBourgeois-Portfolio
 
-## Description
-
-I am making this as part of a bookcamp challenge and my own persal use. This is the link to the live site:
-
-- https://kzefram.github.io/KarenBourgeois-Portfolio/
-
-I had to follow the following process:
-
-- GIVEN I need to sample a potential employee's previous work
-- WHEN I load their portfolio
-- THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-- WHEN I click one of the links in the navigation
-- THEN the UI scrolls to the corresponding section
-- WHEN I click on the link to the section about their work
-- THEN the UI scrolls to a section with titled images of the developer's applications
-- WHEN I am presented with the developer's first application
-- THEN that application's image should be larger in size than the others
-- WHEN I click on the images of the applications
-- THEN I am taken to that deployed application
-- WHEN I resize the page or view the site on various screens and devices
-- THEN I am presented with a responsive layout that adapts to my viewport
-
-Picture(s)
-
-
-
 ## Table of Contents
 
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Features](#features)
 - [Tests](#tests)
 
+
+## Description
+
+Welcome to my portfolio! I am a full stack web developer with a passion for creating beautiful, responsive websites. I have experience with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. I am excited to work with you on your next project!
+
+- https://kzefram.github.io/KarenBourgeois-Portfolio/
+
+
+Picture(s)
+
+
+
+
+
 ## Installation
 
-There is no installation needed.
+Click on the link above to see the site. 
 
 ## Usage
 
@@ -52,15 +41,18 @@ In this site, I have utilized the knowledge I have learned through my studies. E
 
 ## Badges
 
-https://github.com/users/kzefram/achievements/quickdraw
+- https://github.com/users/kzefram/achievements/quickdraw
 
-https://github.com/users/kzefram/achievements/pull-shark
+- https://github.com/users/kzefram/achievements/pull-shark
 
-https://github.com/users/kzefram/achievements/yolo
+- https://github.com/users/kzefram/achievements/yolo
 
 ## Features
 
-Not at this time.
+There are some cool features to behold:
+- Contact form
+- Animations
+- 
 
 ## How to Contribute
 
