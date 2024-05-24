@@ -24,10 +24,10 @@ const Work = () => {
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
-                    <a href="/">
+                    <a href="https://kzefram.github.io/Daily-Schedule/">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/Daily-Schedule">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
@@ -40,10 +40,10 @@ const Work = () => {
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
-                    <a href="/">
+                    <a href="https://kzefram.github.io/BODESING-Events/">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/BODESING-Events">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
@@ -59,7 +59,7 @@ const Work = () => {
                     <a href="/">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/ProfessionalREADMEGenerator">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
@@ -72,10 +72,10 @@ const Work = () => {
                         React Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
-                    <a href="/">
+                    <a href=" https://notemindai.onrender.com">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/NoteMindAI-Karen">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
@@ -91,7 +91,7 @@ const Work = () => {
                     <a href="/">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/LegalAge">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
@@ -101,13 +101,13 @@ const Work = () => {
             <div style={{backgroundImage: `url(${NoteTaker})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
-                        HTML/CSS/JavaScript Application
+                        JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
                     <a href="/">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Demo</button>
                         </a>
-                        <a href="/">
+                        <a href="https://github.com/kzefram/Simple-Notes">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>Code</button>
                         </a>
 
