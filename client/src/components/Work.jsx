@@ -21,6 +21,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${DailySched})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        Daily Schedule
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
@@ -37,6 +38,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${Bodesing})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        Bodesing Events
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
@@ -53,6 +55,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${Readme})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        README Generator
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
@@ -69,6 +72,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${Landing})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        NoteMindAI
                         React Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
@@ -85,6 +89,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${Legal})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        Legal Age
                         C# Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>
@@ -101,6 +106,7 @@ const Work = () => {
             <div style={{backgroundImage: `url(${NoteTaker})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
                     <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                        Note Taker
                         JavaScript Application
                     </span>
                     <div className='pt-8 text-center text-[#284B63]'>

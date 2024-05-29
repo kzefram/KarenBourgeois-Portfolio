@@ -14,9 +14,7 @@ export default function App() {
       <About />
       <Skills />
       <Work />
-      <Contact  />
-
-      
+      <Contact />
     </div>
   )
 }

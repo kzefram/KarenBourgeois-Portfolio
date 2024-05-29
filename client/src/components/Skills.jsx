@@ -3,7 +3,7 @@ import MongoDB from '../assets/mongo.png';
 import NodeJS from '../assets/node.png';
 import ReactJS from '../assets/react.png';
 import GitHub from '../assets/github.png';
-import MySQL from '../assets/mysql.png';
+import MySQL from '../assets/128px-Database-mysql.png';
 import Tailwind from '../assets/tailwind.png';
 //import Express from '../assets/express.png';
 import ExpressJS from '../assets/expressjs.png';
