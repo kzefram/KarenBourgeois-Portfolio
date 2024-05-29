@@ -43,7 +43,7 @@ const Navbar = () => {
     {/* Mobile Menu*/}
         <ul className={!show ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#153243] flex flex-col justify-center items-center'}>
           <li className='py-5 text-xl hover:border-b-2 hover:border-[#F4F9E9]'>
-          <Link to='home' smooth={true} duration={500}>Home</Link>
+          <Link to='home'>Home</Link>
           </li>
           <li className='py-5 text-xl hover:border-b-2 hover:border-[#F4F9E9]'>
           <Link to='about' smooth={true} duration={500}>About</Link>
