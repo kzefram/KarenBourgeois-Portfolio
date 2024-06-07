@@ -12,15 +12,21 @@ const Home = () => {
             <p className="text-[#d4d5d2] py-4 max-w-[700px]">
                 I am a Full-Stack Developer specializing in Front-End development. I am currently persuing AWS Certifications, Python and Java programing lanugages, robotics and AI.</p>
             <div>
-            <button className="text-[#B4B8AB] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#F4F9E9] hover:boarder-[#F4F9E9] hover:text-[#284B63]">
-                View Work
-                <span className="group-hover:rotate-90 duration-300">
-                    <HiArrowNarrowRight className="ml-3"/>
-                </span>
-            </button>
-        </div>
+            <Link to='work' smooth={true} duration={500}>
+                <button className="text-[#B4B8AB] group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#F4F9E9] hover:boarder-[#F4F9E9] hover:text-[#284B63]">
+                    View Work
+                    <span className="group-hover:rotate-90 duration-300">
+                        <HiArrowNarrowRight className="ml-3"/>
+                    </span>
+                </button>
+            </Link>
+            </div>
         </div>
         
+        {/* Hero Picture */}
+        <div className="flex flex-col">
+            <img src="../assets/images/dancingAstronautNowWords.png" alt="" />
+        </div>
     </div>
   )
 }
