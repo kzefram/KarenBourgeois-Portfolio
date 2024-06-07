@@ -5,15 +5,17 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import {Link} from 'react-scroll';
 import Resume from '../assets/KarenBourgeois-Resume2023eng.pdf';
+import '../components/ToolTip.jsx';
 
 const Navbar = () => {
   const [show, setShow] = useState(false);
   const handleClick = () => setShow(!show);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#153243] text-[#B4B8AB]'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center p-4 bg-[#153243] text-[#B4B8AB]'>
       <div className='hover:scale-110 duration-500'>
-        <img src={Logo} alt="Logo Image" style={{width: '80px'}} />
+        
+          <img src={Logo} alt="Logo Image" style={{width: '80px'}} />
 
       </div>
 

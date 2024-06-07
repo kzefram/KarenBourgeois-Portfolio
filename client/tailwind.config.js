@@ -8,5 +8,11 @@ export default {
     extend: {},
   },
   plugins: [],
+  
+  variants: {
+    extend: {
+      visibility: ['group-hover'],
+    }
+  },
 }
 
