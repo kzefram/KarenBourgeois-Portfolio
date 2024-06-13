@@ -52,7 +52,7 @@ In this site, I have utilized the knowledge I have learned through my studies. E
 There are some cool features to behold:
 - Contact form
 - Animations
-- 
+- Smooth Transitions
 
 ## How to Contribute
 
