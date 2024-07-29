@@ -14,14 +14,22 @@
 
 Welcome to my portfolio! I am a full stack web developer with a passion for creating beautiful, responsive websites. I have experience with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. I am excited to work with you on your next project!
 
-- https://karenbourgeois-portfolio.onrender.com
+[karenbourgeois.rocks ](https://karenbourgeois.rocks/)  /  https://karenbourgeois.netlify.app/
 
 
 Picture(s)
 
+![Home Section](client/public/Home-Hero.png)
 
+![Side Bar Pop-out](client/public/Sidepopout.png)
 
+![About](client/public/about.png)
 
+![Skills](client/public/Skills.png)
+
+![Work](client/public/work.png)
+
+![Contact Form](client/public/contact.png)
 
 ## Installation
 
