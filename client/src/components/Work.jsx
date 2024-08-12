@@ -20,7 +20,7 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
             <div style={{backgroundImage: `url(${DailySched})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-1xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         Daily Schedule
                         JavaScript Application
                     </span>
@@ -37,7 +37,7 @@ const Work = () => {
             </div>
             <div style={{backgroundImage: `url(${Bodesing})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         Bodesing Events
                         JavaScript Application
                     </span>
@@ -54,7 +54,7 @@ const Work = () => {
             </div>
             <div style={{backgroundImage: `url(${Readme})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         README Generator
                         JavaScript Application
                     </span>
@@ -71,7 +71,7 @@ const Work = () => {
             </div>
             <div style={{backgroundImage: `url(${Landing})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         NoteMindAI
                         React Application
                     </span>
@@ -88,7 +88,7 @@ const Work = () => {
             </div>
             <div style={{backgroundImage: `url(${Legal})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         Legal Age
                         C# Application
                     </span>
@@ -105,7 +105,7 @@ const Work = () => {
             </div>
             <div style={{backgroundImage: `url(${NoteTaker})`}} className="shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div">
                 <div className="opacity-0 group-hover:opacity-100" >
-                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider'>
+                    <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
                         Note Taker
                         JavaScript Application
                     </span>
