@@ -28,11 +28,6 @@ const Work = () => {
                 Daily Schedule JavaScript Application
               </span>
               <div className='pt-8 text-center text-[#284B63]'>
-                <a href='https://daily-schedule.onrender.com'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
                 <a href='https://github.com/kzefram/Daily-Schedule'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>
                     Code
