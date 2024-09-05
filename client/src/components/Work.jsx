@@ -3,7 +3,7 @@ import DailySched from "../assets/images/daily-schedule.png";
 import Readme from "../assets/images/finishedREADME.png";
 import Landing from "../assets/images/LandingPagecrop.png";
 import Legal from "../assets/images/LegalAge100.png";
-import NoteTaker from "../assets/images/notetaker.png";
+import Password from "../assets/images/password.png";
 // import PixBox from '../assets/images/PixBoxPicHome.png';
 // import PreWork from '../assets/images/lgscreensite.png';
 
@@ -125,20 +125,20 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${NoteTaker})` }}
+            style={{ backgroundImage: `url(${Password})` }}
             className='shadow-lg shadow-[#153243] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-[#F4F9E9] tracking-wider text-center'>
-                Note Taker JavaScript Application
+                Password Generator JavaScript Application
               </span>
               <div className='pt-8 text-center text-[#284B63]'>
-                <a href='https://simple-note-taking-app.onrender.com'>
+                <a href='https://kzefram.github.io/Password-Generation/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/kzefram/Simple-Notes'>
+                <a href='https://github.com/kzefram/Password-Generation'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#EEF0EB] font-bold text-lg'>
                     Code
                   </button>
