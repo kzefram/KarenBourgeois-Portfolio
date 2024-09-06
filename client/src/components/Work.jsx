@@ -1,8 +1,8 @@
-import Bodesing from "../assets/images/bodesingevents.png";
+import Bodesing from "../assets/images/logo2.png";
 import DailySched from "../assets/images/daily-schedule.png";
 import Readme from "../assets/images/finishedREADME.png";
-import Landing from "../assets/images/LandingPagecrop.png";
-import Legal from "../assets/images/LegalAge100.png";
+import Landing from "../assets/images/notemind.png";
+import Legal from "../assets/images/legalage.png";
 import Password from "../assets/images/password.png";
 // import PixBox from '../assets/images/PixBoxPicHome.png';
 // import PreWork from '../assets/images/lgscreensite.png';
