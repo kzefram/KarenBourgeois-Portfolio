@@ -12,7 +12,7 @@ import ExpressJS from '../assets/expressjs.png';
 const Skills = () => {
   return (
     <div name='skills' className='w-full h-screen bg-[#153243] text-[#B4B8AB] '>
-      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full sm:mt-50'>
         <div>
             <p className='text-3xl font-bold inline border-b-4 border-[#F4F9E9] sm:mt-20'>Skills</p>
             <p className='py-6'>These are the technologies I have worked with.</p>
