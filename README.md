@@ -1,4 +1,21 @@
 # KarenBourgeois-Portfolio
+    ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+    ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Table of Contents
 
@@ -9,13 +26,11 @@
 - [Features](#features)
 - [Tests](#tests)
 
-
 ## Description
 
 Welcome to my portfolio! I am a full stack web developer with a passion for creating beautiful, responsive websites. I have experience with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. I am excited to work with you on your next project!
 
-[www.karenbourgeois.rocks ](https://karenbourgeois.rocks/)  /  https://karenbourgeois.netlify.app/
-
+[www.karenbourgeois.rocks ](https://karenbourgeois.rocks/)
 
 Picture(s)
 
@@ -33,7 +48,7 @@ Picture(s)
 
 ## Installation
 
-Click on the link above to see the site. 
+Click on the link above to see the site.
 
 ## Usage
 
@@ -58,6 +73,7 @@ In this site, I have utilized the knowledge I have learned through my studies. E
 ## Features
 
 There are some cool features to behold:
+
 - Contact form
 - Animations
 - Smooth Transitions
