@@ -18,18 +18,26 @@
 
 ## Table of Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [Features](#features)
-- [Tests](#tests)
+[Description](#description) |
+[Features](#features) |
+[Installation](#installation) |
+[Usage](#usage) |
+[Credits](#credits) |
+[Tests](#tests)
 
 ## Description
 
 Welcome to my portfolio! I am a full stack web developer with a passion for creating beautiful, responsive websites. I have experience with React, JavaScript, HTML, CSS, MongoDB, Express, and Node.js. I am excited to work with you on your next project!
 
 [www.karenbourgeois.rocks ](https://karenbourgeois.rocks/)
+
+## Features
+
+There are some cool features to behold:
+
+- Contact form
+- Animations
+- Smooth Transitions
 
 Picture(s)
 
@@ -63,19 +71,11 @@ In this site, I have utilized the knowledge I have learned through my studies. E
 
 ## Badges
 
-- https://github.com/users/kzefram/achievements/quickdraw
+![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
 
-- https://github.com/users/kzefram/achievements/pull-shark
+![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 
-- https://github.com/users/kzefram/achievements/yolo
-
-## Features
-
-There are some cool features to behold:
-
-- Contact form
-- Animations
-- Smooth Transitions
+![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
 ## How to Contribute
 
