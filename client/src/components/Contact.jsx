@@ -1,11 +1,9 @@
-
-
 const Contact = () => {
   return (
-    <div className="gap-4">
+    <div className='flex-col justify-center items-center'>
       <div
         name='contact'
-        className='w-full md:h-screen bg-[#153243] text-[#B4B8AB] flex justify-center items-center p-4'
+        className='w-full md:h-screen bg-[#153243] text-[#B4B8AB] flex justify-center items-center p-5'
       >
         <form
           method='POST'
@@ -42,24 +40,24 @@ const Contact = () => {
           <button className='text-[#B4B8AB] group border-2 px-4 py-3 my-8 mx-auto flex items-center hover:bg-[#F4F9E9] hover:boarder-[#F4F9E9] hover:text-[#284B63]'>
             Let&apos;s Connect
           </button>
-          
         </form>
-        <div className="flex-col">
-            <p className='text-center'>
-              Or schedule a meeting directly on my calendar</p>
-            <a
-              href='https://calendar.app.google/QARG2v9SHbjoo98D9'
-              target='_blank'
-              rel='noreferrer'
-            >
-              <button className='text-[#B4B8AB] group border-2 px-4 py-3 my-8 mx-auto flex items-center hover:bg-[#F4F9E9] hover:boarder-[#F4F9E9] hover:text-[#284B63]'>
-                Schedule a Meeting
-              </button>
-            </a>
-          </div>
+        <div className="className='w-full md:h-screen bg-[#153243] text-[#B4B8AB] flex justify-center items-center p-5 gap-4">
+          <p className='text-center'>
+            Or schedule a meeting directly on my calendar
+          </p>
+          <a
+            href='https://calendar.app.google/QARG2v9SHbjoo98D9'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <button className='text-[#B4B8AB] group border-2 px-4 py-3 my-8 mx-auto flex items-center hover:bg-[#F4F9E9] hover:boarder-[#F4F9E9] hover:text-[#284B63]'>
+              Schedule a Meeting
+            </button>
+          </a>
+        </div>
       </div>
     </div>
   );
-}
+};
 
-export default Contact
+export default Contact;
