@@ -4,7 +4,7 @@ import Logo from '../assets/images/DesignNoBack.png';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import {Link} from 'react-scroll';
-import Resume from '../assets/KAREN BOURGEOIS-Resume-Front-End Development_20240905.pdf';
+import Resume from '../assets/karenbourgeois-resume.pdf';
 
 
 const Navbar = () => {
