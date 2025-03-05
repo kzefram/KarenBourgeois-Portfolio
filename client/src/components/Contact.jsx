@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <div className='flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center w-full h-screen sm:w-auto'>
       <div
         name='contact'
         className='w-full md:h-screen bg-[#153243] text-[#B4B8AB] flex justify-center items-center p-5'
@@ -41,7 +41,9 @@ const Contact = () => {
             Let&apos;s Connect
           </button>
         </form>
-        <div className="className='w-full md:h-screen bg-[#153243] text-[#B4B8AB] flex justify-center items-center p-5 gap-4">
+        
+      </div>
+      <div className='w-full sm:h-screen bg-[#153243] text-[#B4B8AB] flex-wrap justify-center items-center p-5 gap-4'>
           <p className='text-center'>
             Or schedule a meeting directly on my calendar
           </p>
@@ -56,7 +58,6 @@ const Contact = () => {
           </a>
         </div>
       </div>
-    </div>
   );
 };
 
