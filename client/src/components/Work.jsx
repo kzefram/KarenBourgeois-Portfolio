@@ -9,7 +9,7 @@ import Password from "../assets/images/password.png";
 
 const Work = () => {
   return (
-    <div name='work' className='w-full md:h-screen bg-[#153243] text-[#B4B8AB]'>
+    <div name='work' className='md:w-full md:h-screen bg-[#153243] text-[#B4B8AB] sm:mt-100'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-3xl font-bold inline border-b-4 border-[#F4F9E9]'>
